@@ -115,15 +115,15 @@ def ats():
 
 
 
-killTasks()
-scanProduct()
-mes()
-print(model)
-print(model.get_data)
-modelAtsFile = model.ssAts1 if AtsModel() else model.ssAts2
-print(modelAtsFile)
-print(model)
-ats()
+# killTasks()
+# scanProduct()
+# mes()
+# print(model)
+# print(model.get_data)
+# modelAtsFile = model.ssAts1 if AtsModel() else model.ssAts2
+# print(modelAtsFile)
+# print(model)
+# ats()
 
 
 
